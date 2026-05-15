@@ -1,0 +1,24 @@
+# Basic Electrical Engineering
+
+## Introduction
+
+Basic Electrical Engineering is a foundational course designed for first-year B.Tech students in Computer Science and Engineering (CSE). This course provides essential knowledge of electrical concepts, principles, and applications that form the backbone of modern technology and electronics.
+
+## Course Overview
+
+This repository contains comprehensive study materials, lecture notes, and resources covering fundamental topics in electrical engineering, including:
+
+- **Circuit Analysis**: Ohm's Law, Kirchhoff's Laws, and circuit theorems
+- **AC and DC Circuits**: Understanding alternating and direct current systems
+- **Magnetic Circuits**: Principles of magnetism and electromagnetic induction
+- **Transformers**: Single and three-phase transformers
+- **Electrical Machines**: Motors and generators basics
+- **Power Systems**: Introduction to power generation and distribution
+- **Semiconductor Devices**: Diodes, transistors, and basic electronics
+
+## Objectives
+
+- Understand fundamental electrical concepts and principles
+- Apply circuit analysis techniques to solve real-world problems
+- Develop practical knowledge of electrical components and systems
+- Build a strong foundation for advanced electrical and electronics courses
