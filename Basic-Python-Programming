@@ -1,0 +1,12 @@
+# Basic Python Programming
+
+This repository is a concise introduction to the fundamentals of Python programming. It covers core concepts such as variables, data types, control flow, functions, and basic file handling. The goal is to help beginners build a strong foundation in Python with clear examples and practical exercises.
+
+
+## Topics Covered
+
+- **Variables and Data Types**: Strings, integers, floats, lists, tuples, and dictionaries
+- **Control Flow**: If statements, loops (for and while)
+- **Functions**: Definition, parameters, return values, and scope
+- **File Handling**: Reading, writing, and manipulating files
+- **Best Practices**: Code organization and style guidelines
