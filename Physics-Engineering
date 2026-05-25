@@ -30,3 +30,40 @@ Physics Engineering bridges fundamental physics principles with practical engine
    - First Law of Thermodynamics
    - Second Law and Entropy
    - Heat Transfer
+
+
+Newton's Three Laws of Motion
+
+1. First Law of Motion (Law of Inertia)
+
+An object remains at rest or continues to move with a uniform velocity in a straight line unless acted upon by a net external, unbalanced force.
+
+Inertia: The inherent property of a body to resist changes in its state of rest, motion, or direction.
+
+Inertia of Rest: A person standing in a bus falls backward when the bus suddenly moves.
+
+Inertia of Motion: A passenger falls forward when a moving bus brakes suddenly.
+
+Inertia of Direction: Passengers shift sideways when a vehicle takes a sharp turn.
+
+2. Second Law of Motion (Law of Force & Acceleration)
+
+The rate of change of linear momentum of an object is directly proportional to the applied unbalanced force and takes place in the direction of the force.
+
+Mathematical Derivation:
+
+𝐹⃗∝𝑑𝑝⃗/𝑑𝑡⟹𝐹⃗=𝑑(𝑚𝑣⃗)/𝑑𝑡
+
+For a system with a constant mass (𝑚):𝐹⃗=𝑚𝑑𝑣⃗/𝑑𝑡=𝑚𝑎⃗
+
+3. Third Law of Motion (Law of Action-Reaction)
+
+To every action, there is always an equal and opposite reaction. Forces always occur in matched interaction pairs.
+
+Mathematical Statement: If object 𝐴 exerts a force on object B (𝐹⃗𝐴𝐵), then object 𝐵 exerts an equal and opposite force on object 𝐴(𝐹⃗𝐵𝐴).
+
+𝐹⃗𝐴𝐵=−𝐹⃗𝐵𝐴
+
+Key Properties: Action and reaction forces act on two different bodies, meaning they never cancel each other out dynamically.
+
+Examples: Recoil of a fired gun, walking on the ground, or rocket propulsion.
