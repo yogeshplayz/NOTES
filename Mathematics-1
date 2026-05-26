@@ -14,3 +14,42 @@ This document serves as an introduction to the fundamentals of Mathematics-1, co
 
 In mathematics, a matrix is a rectangular grid or array of numbers, symbols, or expressions arranged in rows and columns. 
 Matrices act as foundational tools in linear algebra, used to organize data and solve complex systems of equations.
+
+Definition: An arrangement of mn elements in a rectangular form having an ordered set of m rows and n
+columns is called an m × n matrix A
+𝐴 = [(𝑎11 𝑎12 𝑎13 ⋯ 𝑎1𝑛
+      𝑎21 𝑎22 𝑎23 ⋱ 𝑎2𝑛
+       …   ⋯   …  .)]
+
+In short A=[aij] ,i = 1,2, … … m
+ j = 1,2, … … n
+
+Here each aij is called an element of the matrix in, i th row and j th column.
+Special Types of Matrices
+
+ Let A be Square Matrix of order n,
+
+1. A = A^T
+,then it is called a symmetric matrix (𝑖.𝑒) aij = aji for all i, j.
+
+2. If the square matrix A = −A^T
+, then it is called skew –symmetric matrix
+ (𝑖.𝑒) aij = −aji for all i, j.
+
+3. An 𝑚 × 1 matrix is called a column matrix.
+
+4. An 1 × 𝑛 matrix is called a row matrix.
+
+5. In the square matrix A=(aij) the elements 𝑎11, 𝑎22, 𝑎33, … , 𝑎𝑛𝑛 are called the diagonal elements of A and
+the diagonal elements constitute the principal diagonal of the matrix A .
+
+6. A square matrix is called a diagonal matrix if all the elements except the leading diagonal are zero (𝑖.𝑒) In
+a diagonal matrix aij = 0 if i ≠ j.
+
+7. A square matrix A=(aij) is called an upper triangular matrix if all the entries below the leading diagonal
+are zero.
+
+8. A square matrix A=(aij) is called an lower triangular matrix if all the entries above the leading diagonal
+are zero.
+
+9. A square matrix A is said to be singular if |A| = 0, otherwise it is a non –singular matrix.
