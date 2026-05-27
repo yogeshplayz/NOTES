@@ -22,3 +22,39 @@ This repository contains comprehensive study materials, lecture notes, and resou
 - Apply circuit analysis techniques to solve real-world problems
 - Develop practical knowledge of electrical components and systems
 - Build a strong foundation for advanced electrical and electronics courses
+
+INTRODUCTION TO ELECTRICAL CIRCUITS
+
+ Network theory is the study of solving the problems of electric circuits or electric
+networks. In this introductory chapter, let us first discuss the basic terminology of electric circuits and the
+types of network elements.
+
+Basic Terminology
+In Network Theory, we will frequently come across the following terms −
+ Electric Circuit
+ Electric Network
+ Current
+ Voltage
+ Power
+So, it is imperative that we gather some basic knowledge on these terms before proceeding further. Let’s
+start with Electric Circuit.
+
+Electric Circuit
+An electric circuit contains a closed path for providing a flow of electrons from a voltage
+source or current source. The elements present in an electric circuit will be in series connection, parallel
+connection, or in any combination of series and parallel connections.
+
+Electric Network
+An electric network need not contain a closed path for providing a flow of electrons from a
+voltage source or current source. Hence, we can conclude that "all electric circuits are electric networks"
+but the converse need not be true.
+Current
+The current "I" flowing through a conductor is nothing but the time rate of flow of charge.
+Mathematically, it can be written as
+I =dQ/dt
+Where,
+ Q is the charge and its unit is Coloumb.
+ t is the time and its unit is second.
+As an analogy, electric current can be thought of as the flow of water through a pipe. Current is measured
+in terms of Ampere. In general, Electron current flows from negative terminal of source to positive
+terminal, whereas, Conventional current flows from positive terminal of source to negative terminal
