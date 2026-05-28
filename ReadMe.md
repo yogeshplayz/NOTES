@@ -22,3 +22,5 @@ This repository will host notes and study materials for B.Tech 1st year. It is i
   - /Environmental-Science/  
 - /Reference/
   - sample-papers, lab-manuals, formula-sheets
+
+last updated - 28/05/26
