@@ -8,11 +8,10 @@ This repository will host notes and study materials for B.Tech 1st year. It is i
 - Keep a single, searchable place for reference while studying.
 
 ## structure
-- /Semester-1/
+- /Subjects/
   - /Physics/
   - /Electronics/
   - /Problem solving for c/
-- /Semester-2/
   - /Mathematics-I/
   - /Basic-Electrical-Engineering/
   - /Basic-Mechanical-Engineering/
