@@ -22,4 +22,4 @@ This repository will host notes and study materials for B.Tech 1st year. It is i
 - /Reference/
   - sample-papers, lab-manuals, formula-sheets
 
-last updated - 28/05/26
+last updated - 31/05/26
